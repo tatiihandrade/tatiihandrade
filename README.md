@@ -25,58 +25,13 @@ Tenho experiência em ambientes ágeis, atuando desde a análise de requisitos a
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🔍 Quality Assurance
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,mysql,git,github,postman,selenium,cypress,playwright" />
+</p>
 
-`Testes Manuais`
-`Testes Funcionais`
-`Testes Regressivos`
-`Testes Exploratórios`
-`BDD`
-`UAT`
-`Análise de Requisitos`
-`Gestão de Defeitos`
-
-### 🔌 API Testing
-
-`Postman`
-`Swagger`
-`SoapUI`
-
-### 🤖 Automação de Testes
-
-`Cypress`
-`Playwright`
-`Robot Framework`
-`Selenium`
-
-### 🗄️ Banco de Dados
-
-`SQL Server`
-`MySQL`
-
-### ⚙️ Gestão e Qualidade
-
-`Azure DevOps`
-`RQM`
-`Jira`
-`Trello`
-
-### 💻 Linguagens e Tecnologias
-
-`C#`
-`.NET`
-`JavaScript`
-`HTML`
-`CSS`
-
-### 🔧 Versionamento
-
-`Git`
-`GitHub`
-
-### 📊 Business Intelligence
-
-`Power BI`
+<p align="center">
+  QA • API Testing • Robot Framework • SQL Server • Azure DevOps • Jira • Trello • RQM • Swagger • SoapUI • Power BI
+</p>
 
 ---
 
