@@ -100,7 +100,7 @@ Aprimorando conhecimentos em automação de testes com foco na evolução contí
 
 📧 [jg.tatii@gmail.com](mailto:jg.tatii@gmail.com)
 
-💼 LinkedIn: (https://www.linkedin.com/in/tatiane-andrade-879862136/)
+💼 LinkedIn: [Tatiane Andrade](https://www.linkedin.com/in/tatiane-andrade-879862136/)
 
 ---
 
