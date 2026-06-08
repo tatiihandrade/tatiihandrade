@@ -1,6 +1,6 @@
-# 💜 Bem-vindo(a) ao meu perfil
+# 💜 Tatiane Andrade
 
-### Tatiane Andrade | QA Analyst
+### QA Analyst | Software Quality Assurance
 
 Atuo há mais de **5 anos na área de Qualidade de Software**, com experiência em testes manuais, automação de testes, validação de APIs e consultas em banco de dados.
 
