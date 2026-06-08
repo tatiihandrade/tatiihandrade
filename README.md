@@ -35,6 +35,7 @@ Tenho experiência em ambientes ágeis, atuando desde a análise de requisitos a
   QA • API Testing • Robot Framework • SQL Server • Azure DevOps • Jira • Trello • RQM • Swagger • SoapUI • Power BI
 </p>
 
+---
 
 ## 🎓 Formação
 
