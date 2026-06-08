@@ -27,8 +27,6 @@ Tenho experiência em ambientes ágeis, atuando desde a análise de requisitos a
 
 ### 🔍 Quality Assurance
 
-### 🔍 Quality Assurance
-
 `Testes Manuais`
 `Testes Funcionais`
 `Testes Regressivos`
