@@ -25,55 +25,16 @@ Tenho experiência em ambientes ágeis, atuando desde a análise de requisitos a
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🔌 API Testing
+<!-- COLE AQUI -->
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,mysql,git,github,postman,selenium,cypress,playwright" />
 </p>
 
-### 🤖 Automação de Testes
-
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium,cypress,playwright" />
+<p align="center">
+  QA • API Testing • Robot Framework • SQL Server • Azure DevOps • Jira • Trello • RQM • Swagger • SoapUI • Power BI
 </p>
 
-Robot Framework
-
-### 🗄️ Banco de Dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-SQL Server
-
-### 💻 Linguagens e Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css" />
-</p>
-
-### 🔧 Versionamento
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-### ⚙️ Gestão de Testes e Projetos
-
-<p>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-</p>
-
-RQM
-
-### 📊 Business Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
 
 ## 🎓 Formação
 
