@@ -92,8 +92,6 @@ Tenho experiência em ambientes ágeis, atuando desde a análise de requisitos a
 
 ## 🌱 Atualmente
 
-🌱 Atualmente
-
 Aprimorando conhecimentos em automação de testes com foco na evolução contínua das práticas de qualidade de software.
 
 ---
